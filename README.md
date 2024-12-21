@@ -29,6 +29,5 @@ How It Works?
 Students log in to the app and select a sport they wish to play.
 They choose an available time slot and confirm their booking.
 Administrators can monitor all bookings, manage equipment, and approve requests directly from the admin panel.
-![lee](https://github.com/user-attachments/assets/0a49debe-d54e-48c2-9171-3044bc62ce33)
 
 
