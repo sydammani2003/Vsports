@@ -30,4 +30,25 @@ Students log in to the app and select a sport they wish to play.
 They choose an available time slot and confirm their booking.
 Administrators can monitor all bookings, manage equipment, and approve requests directly from the admin panel.
 
+<img width="133" alt="Home_Page" src="https://github.com/user-attachments/assets/00b823db-9e3e-4cba-a32b-5d20507423a3" />
+
+
+<img width="125" alt="Login_Page" src="https://github.com/user-attachments/assets/08281e0e-ac81-4c80-9480-14e519b28679" />
+
+
+<img width="133" alt="Register_page" src="https://github.com/user-attachments/assets/e18c4403-6ee8-409b-91b4-dc529b82e3c7" />
+
+
+<img width="128" alt="Booking_unsuccessful" src="https://github.com/user-attachments/assets/914e49ba-89f1-41f3-b51d-af23f6d3f8f5" />
+
+
+<img width="126" alt="Booking_Successful" src="https://github.com/user-attachments/assets/ba9659fe-5c97-4991-a9b7-791c52252c8d" />
+
+
+<img width="124" alt="Booking_Confirmation_Page" src="https://github.com/user-attachments/assets/a0dd023e-4afd-4187-94b1-c7f56281d7c7" />
+
+
+<img width="145" alt="Slot_Booking" src="https://github.com/user-attachments/assets/976f047b-c9cf-4001-98b9-80b6c79be280" />
+
+
 
